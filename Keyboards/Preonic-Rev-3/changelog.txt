@@ -1,0 +1,16 @@
+1.0.0 - Initial layout config:
+		- Standrd QWERTY layout
+		- All required functions on function layer
+		- First layer for modifiers that don't fit on the board
+		- Third layer with RGB functionality
+1.1.0 - Duplicating first layer to second layer for convenience as it is otherwise empty:
+		- Second layer of additional modifiers
+		- Added caps lock to Fn+Shift
+		- Some additional funcitonality on fn layer
+2.0.0 - Changed enter location:
+		- Enter and ' swapped
+		- Aded pause and brightness keys
+		- Fixed issue where caps lock was on lower rather than fn
+2.0.1 - Fixed issue where I couldn't ctrl+shift+printscrn because caps lock:
+		- Caps lock moved to fn+c
+		- Added sleep function
